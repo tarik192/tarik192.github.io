@@ -6,9 +6,12 @@
     justify-content: center;  
     align-items: center;      
     height: 100vh; 
+    color: gold;
 }
 
-
+body{
+    background-color: beige;
+}
   
 .työt{
     display: flex;
@@ -16,7 +19,7 @@
     align-items: center;      
     height: 100vh; 
     position: relative;top: -2138px;
-    
+
 }
 .työ-text{
     display: flex;
@@ -24,5 +27,6 @@
     align-items: center;      
     height: 100vh;
     position: relative;top: -1258px;
+    color: gold;
 
 }
