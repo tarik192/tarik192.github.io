@@ -1,0 +1,28 @@
+.title{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   position: relative; top: -416px;
+   font-size: 100px;
+     display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh; 
+}
+
+
+  
+.työt{
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh; 
+    position: relative;top: -2138px;
+    
+}
+.työ-text{
+    display: flex;
+    justify-content: center;  
+    align-items: center;      
+    height: 100vh;
+    position: relative;top: -1258px;
+
+}
